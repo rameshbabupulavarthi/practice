@@ -1,11 +1,10 @@
 package com.java.designpattern.creational.abstractfactory;
 
-import java.io.ByteArrayInputStream;
+import org.w3c.dom.Document;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-
-import org.w3c.dom.Document;
+import java.io.ByteArrayInputStream;
 
 public class AbstractFactoryEverydayDemo {
 
